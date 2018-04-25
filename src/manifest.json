@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "YouTube Gaming Switcher",
+    "short_name": "YGS",
+    "version": "0.1",
+    "description": "This app helps you opening gaming.youtube.com. You can open gaming.youtube.com in www.youtube.com by context menu.",
+    "permissions": [
+          "contextMenus"
+    ],
+    "background": {
+      "scripts": ["Scripts/eventPage.js"],
+      "persistent": false
+     }
+}
