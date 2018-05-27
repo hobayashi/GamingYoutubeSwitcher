@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "YouTube Gaming Switcher",
-    "short_name": "YGS",
-    "version": "0.1",
-    "description": "This app helps you opening gaming.youtube.com. You can open gaming.youtube.com in www.youtube.com by context menu.",
+    "short_name": "Switcher",
+    "version": "1.0",
+    "description": "This app helps you opening gaming.youtube.com. You can open gaming.youtube.com in www.youtube.com by simple click.",
     "permissions": [
           "contextMenus"
     ],
